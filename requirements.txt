@@ -1,0 +1,5 @@
+aiohttp==0.22.5
+asyncio==3.4.3
+chardet==2.3.0
+multidict==1.2.2
+uvloop==0.5.2
